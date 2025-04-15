@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #222;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+#oyun {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.character {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background-color: #ccc;
+    line-height: 100px;
+    color: white;
+}
